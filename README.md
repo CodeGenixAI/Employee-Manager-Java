@@ -122,48 +122,9 @@ Make sure the following are installed on your system:
 * Click **"Generate PDF"**.
 * Save or print the generated pay slip.
 
----
 
-## 📸 Screenshots
-
-> 📷 *Add some screenshots of your GUI here to illustrate usage.*
-
-```
-[ Add Employee Form ]
-[ Search & Table View ]
-[ Pay Slip PDF Example ]
-```
 
 ---
-
-## 🧪 Project Structure
-
-```
-Employee-Manager-Java/
-│
-├── src/
-│   ├── db/
-│   │   └── DBConnection.java
-│   ├── gui/
-│   │   ├── AddEmployeeForm.java
-│   │   ├── UpdateEmployeeForm.java
-│   │   └── EmployeeTable.java
-│   ├── reports/
-│   │   └── PaySlipReport.jrxml
-│   └── EmployeeManagementSystem.java
-│
-├── lib/
-│   ├── jasperreports-x.x.x.jar
-│   └── mysql-connector-java-x.x.x.jar
-│
-├── resources/
-│   └── schema.sql
-│
-└── README.md
-```
-
----
-
 ## 🙌 Contributing
 
 Contributions are welcome! To contribute:
